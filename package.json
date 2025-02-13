@@ -1,0 +1,12 @@
+{
+  "name": "sentence-to-sentence-similarity",
+  "version": "1.0.0",
+  "description": "A sentence similarity project",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
